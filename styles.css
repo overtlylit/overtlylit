@@ -7,8 +7,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 22%;
-    width: 22%;
+    height: 30%;
+    width: 30%;
 }
 
 @media screen and (max-width: 900px) {
